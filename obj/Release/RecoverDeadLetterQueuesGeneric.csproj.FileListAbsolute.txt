@@ -1,0 +1,2 @@
+C:\Users\Bruno\Desktop\D1\Developer\tools\RecoverDeadLetterQueuesGeneric\obj\Release\RecoverDeadLetterQueuesGeneric.csprojAssemblyReference.cache
+C:\Users\Bruno\Desktop\D1\Developer\tools\RecoverDeadLetterQueuesGeneric\obj\Release\RecoverDeadLetterQueuesGeneric.csproj.CoreCompileInputs.cache
